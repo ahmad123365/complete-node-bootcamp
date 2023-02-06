@@ -1,0 +1,23 @@
+{
+  "name": "complete-node-bootcamp",
+  "version": "1.0.0",
+  "description": "This repo contains starter files and the finished project files for all the projects contained in the course (complete repo size is **288MB**).",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon my-code/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasschmedtmann/complete-node-bootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonasschmedtmann/complete-node-bootcamp/issues"
+  },
+  "homepage": "https://github.com/jonasschmedtmann/complete-node-bootcamp#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
